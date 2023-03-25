@@ -1,5 +1,5 @@
 # ManbokRealEstate
-![gif](https://www.notion.so/ChatGPT-41a5527070d148bdba2bda9b225cb646?pvs=4#f499c1b8287945cabd65c56025fd7627)
+![gif](https://velog.velcdn.com/images/nft_sb/post/cd9bb448-2d17-4c66-9c6e-933ae3f9c6da/image.gif)
 # 요구 사항 정리
  ## 사무소 소개
   ### 소개
